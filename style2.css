@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+.h1{
+    color: forestgreen;
+}
+.Contact{
+    width: 500px;
+}
+.Email{
+    width: 500px;
+}.comment{
+    width: 500px;
+}
+.button{
+    background-color: forestgreen;
+    height: 40px;
+    width: 500px;
+}
+
+
+
+
